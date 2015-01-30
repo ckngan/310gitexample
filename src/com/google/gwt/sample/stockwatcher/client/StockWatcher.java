@@ -84,7 +84,7 @@ public class StockWatcher implements EntryPoint {
 		stocksFlexTable.setText(0, 1, "Price");
 		stocksFlexTable.setText(0, 2, "Change");
 		stocksFlexTable.setText(0, 3, "Remove");
-		stocksFlexTable.setText(0, 4, "Angular");
+		stocksFlexTable.setText(0, 4, "Angular NotWork");
 
 		// Add styles to elements in the stock list table.
 		stocksFlexTable.setCellPadding(6);
