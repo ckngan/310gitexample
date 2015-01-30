@@ -1,0 +1,1 @@
+Git example, practice resolving merge conflicts.
